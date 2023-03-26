@@ -50,26 +50,26 @@
 
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `BOT_TOKEN`: Create a bot using [@BotFather](6215826161:AAGtBO0gxJwkDtbkZUhFebjfjq9FZQyVQS8), and get the Telegram API token.
+* `API_ID`: Get this value from [telegram.org](29001906)
+* `API_HASH`: Get this value from [telegram.org](ce6c965a54b3d5f393f84446c37a30d9)
+* `CHANNELS`: Username or ID of channel or group.(-1001773357346)
+* `ADMINS`: Username or ID of Admin.(1217549670)
+* `DATABASE_URI`: [mongodb+srv://PRABHA:PRABHA@cluster0.iycibgx.mongodb.net/?retryWrites=true&w=majority](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_NAME`:  [PRABHA](mongodb+srv://PRABHA:PRABHA@cluster0.iycibgx.mongodb.net/?retryWrites=true&w=majority). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `Support Chat` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
+* `Support Chat` : Username of a Support Group / ADMIN. (@Team_Netflix1)
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 * `USE_CAPTION_FILTER` : Whether bot should use captions to improve search results. (True False)
-* `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
+* `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, JOIN : https://t.me/+7JeVuCEXt7lmMjVl
 * `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
 * `IMDB` : Imdb, the view of information when making True/False
 * `SINGLE_BUTTON` : choose b/w single or double buttons 
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 ### Url Shortner Variable
-* `SHORT_URL` : Url Of Shortner Site You Use
-* `SHORT_API` : Api Key Of Shortner Which You Use
+* `SHORT_URL` : https://mdisklink.link/member/dashboard
+* `SHORT_API` : 07c66d609ac5a5541cab6cc4a0e957d851a2e0af
 
 
 ## Deploy to Heroku
